@@ -21,9 +21,13 @@
         <module>gmall-common</module>
         <module>gmall-pms</module>
         <module>gmall-ums</module>
-        <module>gamll-oms</module>
-        <module>gamll-sms</module>
+        <module>gmall-oms</module>
+        <module>gmall-sms</module>
         <module>gmall-wms</module>
+        <module>gmall-gateway</module>
+        <module>gmall-sms-interface</module>
+        <module>gmall-pms-interface</module>
+        <module>gmall-wms-interface</module>
     </modules>
 
     <properties>
